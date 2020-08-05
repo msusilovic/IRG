@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<eclipse-userlibraries>
+  <library name="gluegen-rt-natives-windows-amd64">
+    <archive path="C:/irg/lab2/lib/gluegen-rt-natives-windows-amd64.jar" />
+  </library>
+  <library name="lib">
+    <archive path="C:/irg/lab2/lib/gluegen-rt.jar" />
+    <archive path="C:/irg/lab2/lib/jogl-all-natives-windows-amd64.jar" />
+    <archive path="C:/irg/lab2/lib/jogl-all.jar" />
+    <archive path="C:/irg/lab2/lib/jogl-all.jar" />
+    <archive path="C:/irg/lab2/lib/gluegen-rt.jar" />
+    <archive path="C:/irg/lab2/lib/jogl-all-natives-windows-amd64.jar" />
+    <archive path="C:/irg/lab2/lib/gluegen-rt-natives-windows-amd64.jar" />
+  </library>
+</eclipse-userlibraries>
+

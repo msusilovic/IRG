@@ -1,0 +1,345 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="229711fa-f642-48b2-ba5f-82b72e1173b4" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../ai/1.lab/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ai/1.lab/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3.vjezba.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dragon.obj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sesti/Zadatak1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/teddy.obj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../4.labos/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../4.labos/.idea/libraries/gluegen_rt_natives_windows_amd64.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../4.labos/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../4.labos/dragon.obj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../4.labos/kocka.obj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../4.labos/sierpinski.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../4.labos/sierpinski_tepih.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../4.labos/src/fraktali/Complex.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../4.labos/src/fraktali/IFS.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../4.labos/src/fraktali/Mandelbrot.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../4.labos/src/fraktali/Transformation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../4.labos/src/linearna/AbstractMatrix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../4.labos/src/linearna/AbstractVector.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../4.labos/src/linearna/IMatrix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../4.labos/src/linearna/IRG.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../4.labos/src/linearna/IVector.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../4.labos/src/linearna/IncompatibleOperandException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../4.labos/src/linearna/Matrix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../4.labos/src/linearna/MatrixSubMatrixView.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../4.labos/src/linearna/MatrixTransponseView.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../4.labos/src/linearna/MatrixVectorView.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../4.labos/src/linearna/Vector.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../4.labos/src/linearna/VectorMatrixView.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../4.labos/src/sjencanje/EyePosition.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../4.labos/src/sjencanje/Face3D.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../4.labos/src/sjencanje/ObjectModel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../4.labos/src/sjencanje/Vertex3D.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../4.labos/src/sjencanje/Zadatak1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../4.labos/src/sjencanje/Zadatak2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../4.labos/teddy.obj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../4.labos/tetrahedron.obj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ooup/2.labos/zadnja3/src/zadatak4/DistributionTester.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ooup/2.labos/zadnja3/src/zadatak4/Fibonacci.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ooup/2.labos/zadnja3/src/zadatak4/Interpolation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ooup/2.labos/zadnja3/src/zadatak4/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ooup/2.labos/zadnja3/src/zadatak4/Nearest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ooup/2.labos/zadnja3/src/zadatak4/Normal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ooup/2.labos/zadnja3/src/zadatak4/NumberGenerator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ooup/2.labos/zadnja3/src/zadatak4/PercentileCalculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ooup/2.labos/zadnja3/src/zadatak4/Sequential.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ooup/2.labos/zadnja3/src/zadatak5/DatotecniIzvor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ooup/2.labos/zadnja3/src/zadatak5/IzvorBrojeva.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ooup/2.labos/zadnja3/src/zadatak5/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ooup/2.labos/zadnja3/src/zadatak5/Medijan.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ooup/2.labos/zadnja3/src/zadatak5/Observer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ooup/2.labos/zadnja3/src/zadatak5/Prosjek.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ooup/2.labos/zadnja3/src/zadatak5/SlijedBrojeva.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ooup/2.labos/zadnja3/src/zadatak5/Suma.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ooup/2.labos/zadnja3/src/zadatak5/TipkovnickiIzvor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ooup/2.labos/zadnja3/src/zadatak5/Zapis.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ooup/2.labos/zadnja3/src/zadatak6/Cell.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ooup/2.labos/zadnja3/src/zadatak6/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ooup/2.labos/zadnja3/src/zadatak6/Sheet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ooup/3.labos/ooupJava/ooupJava.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ooup/3.labos/ooupJava/src/hr/fer/zemris/ooup/lab2/model/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ooup/3.labos/ooupJava/src/hr/fer/zemris/ooup/lab2/model/plugins/Parrot.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/IdeaProjects/untitled/untitled.iml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="3.vjezba" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="C:/" />
+  </component>
+  <component name="ProjectId" id="1bGcSU1ZNJb7RvpS4H5Pv5LDDg4" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../4.labos" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="sedmi" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Bezier">
+    <configuration name="Bezier" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="osmi.Bezier" />
+      <module name="3.vjezba" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="osmi.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.Main" />
+      <module name="3.vjezba" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Zadatak1" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sedmi.Zadatak1" />
+      <module name="3.vjezba" />
+      <option name="PROGRAM_PARAMETERS" value="tetrahedron.obj" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="sesti.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Zadatak2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sedmi.Zadatak2" />
+      <module name="3.vjezba" />
+      <option name="PROGRAM_PARAMETERS" value="kocka.obj" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Zadatak2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sesti.Zadatak2" />
+      <module name="3.vjezba" />
+      <option name="PROGRAM_PARAMETERS" value="teddy.obj" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="sesti.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Zadatak2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sesti.Zadatak2" />
+      <module name="3.vjezba" />
+      <option name="PROGRAM_PARAMETERS" value="kocka.obj" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="sesti.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Zadatak3" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sesti.Zadatak3" />
+      <module name="3.vjezba" />
+      <option name="PROGRAM_PARAMETERS" value="kocka.obj" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="sesti.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Zadatak1" />
+      <item itemvalue="Application.Zadatak3" />
+      <item itemvalue="Application.Zadatak2" />
+      <item itemvalue="Application.Main" />
+      <item itemvalue="Application.Bezier" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Bezier" />
+        <item itemvalue="Application.Zadatak2" />
+        <item itemvalue="Application.Zadatak2" />
+        <item itemvalue="Application.Zadatak2" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="229711fa-f642-48b2-ba5f-82b72e1173b4" name="Default Changelist" comment="" />
+      <created>1588261870206</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1588261870206</updated>
+      <workItem from="1588261874525" duration="45856000" />
+      <workItem from="1588433733576" duration="15647000" />
+      <workItem from="1588462563822" duration="72000" />
+      <workItem from="1588495938510" duration="19359000" />
+      <workItem from="1588526825715" duration="940000" />
+      <workItem from="1588957151698" duration="362000" />
+      <workItem from="1589237196938" duration="27000" />
+      <workItem from="1589886622010" duration="9367000" />
+      <workItem from="1589973580384" duration="2260000" />
+      <workItem from="1590084146334" duration="153000" />
+      <workItem from="1590405422625" duration="5016000" />
+      <workItem from="1596628349081" duration="23000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="414" y="174" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1590407715562">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="331" y="134" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1589889115382" />
+    <state x="2334" y="174" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1588495952500" />
+    <state x="414" y="174" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1590407715562" />
+    <state x="765" y="203" key="#com.intellij.ide.util.MemberChooser" timestamp="1588525710487">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2685" y="203" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1588509701615" />
+    <state x="765" y="203" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1588525710487" />
+    <state x="566" y="297" width="403" height="237" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1588957245803">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="566" y="297" width="403" height="237" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1536.824@0.0.1536.824" timestamp="1588957245803" />
+    <state x="2511" y="193" key="FileChooserDialogImpl" timestamp="1596628370092">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="473" y="153" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1589237218907" />
+    <state x="2511" y="193" key="FileChooserDialogImpl/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1596628370092" />
+    <state x="591" y="193" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1590417714084" />
+    <state width="914" height="59" key="GridCell.Tab.0.bottom" timestamp="1590417715150">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1493" height="27" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1589889131218" />
+    <state width="1877" height="278" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1588522728948" />
+    <state width="914" height="59" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1590417715150" />
+    <state width="914" height="59" key="GridCell.Tab.0.center" timestamp="1590417715150">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1493" height="27" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1589889131217" />
+    <state width="1877" height="278" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1588522728948" />
+    <state width="914" height="59" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1590417715150" />
+    <state width="914" height="59" key="GridCell.Tab.0.left" timestamp="1590417715150">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1493" height="27" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1589889131217" />
+    <state width="1877" height="278" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1588522728948" />
+    <state width="914" height="59" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1590417715150" />
+    <state width="914" height="59" key="GridCell.Tab.0.right" timestamp="1590417715150">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1493" height="27" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1589889131217" />
+    <state width="1877" height="278" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1588522728948" />
+    <state width="914" height="59" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1590417715150" />
+    <state width="1877" height="333" key="GridCell.Tab.1.bottom" timestamp="1588526101825">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="333" key="GridCell.Tab.1.bottom/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1588519386225" />
+    <state width="1877" height="333" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1588526101825" />
+    <state width="1877" height="333" key="GridCell.Tab.1.center" timestamp="1588526101825">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="333" key="GridCell.Tab.1.center/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1588519386225" />
+    <state width="1877" height="333" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1588526101825" />
+    <state width="1877" height="333" key="GridCell.Tab.1.left" timestamp="1588526101825">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="333" key="GridCell.Tab.1.left/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1588519386225" />
+    <state width="1877" height="333" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1588526101825" />
+    <state width="1877" height="333" key="GridCell.Tab.1.right" timestamp="1588526101825">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="333" key="GridCell.Tab.1.right/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1588519386225" />
+    <state width="1877" height="333" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1588526101825" />
+    <state x="311" y="0" key="SettingsEditor" timestamp="1588291175862">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="249" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1588271326127" />
+    <state x="311" y="0" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1588291175862" />
+    <state x="655" y="343" key="com.intellij.ide.util.TipDialog" timestamp="1590084146702">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="524" y="272" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1589237201716" />
+    <state x="2575" y="343" key="com.intellij.ide.util.TipDialog/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1588495937957" />
+    <state x="655" y="343" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1590084146702" />
+    <state x="342" y="140" key="new project wizard" timestamp="1590084298497">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="342" y="140" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1590084298497" />
+    <state x="2536" y="240" key="run.anything.popup" timestamp="1588450059819">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2536" y="240" key="run.anything.popup/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1588450059819" />
+    <state x="2938" y="183" width="672" height="678" key="search.everywhere.popup" timestamp="1588515332521">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="814" y="145" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1588271775532" />
+    <state x="2938" y="183" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1588515332521" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/linearna/AbstractMatrix.java</url>
+          <line>51</line>
+          <option name="timeStamp" value="26" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
